@@ -51,7 +51,7 @@ global.owner = ['+380944814219']
 global.ownertag = '+380944814219' //your tag number
 global.botname = 'мαℓιуα 😮‍💨 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "мαℓιуα stickr " // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "මලියා" // sticker author
 global.dragonemoji = '🙂' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
